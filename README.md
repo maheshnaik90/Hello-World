@@ -1,5 +1,4 @@
-# Hello-World
-simple example to push/pull code
+KJAR Initial Content
+=============================
 
-
-exploring git branches/git repos/branches/commit..!!
+Your project description here.
